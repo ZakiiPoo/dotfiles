@@ -1,0 +1,11 @@
+configuration {
+  modes: "window,drun,run,ssh";
+  font: "JetBrainsMonoNerdFont 20";
+  show-icons: true;
+  icon-theme: "Nordzy";
+  drun-display-format: "{icon} {name}";
+  display-window: "Windows:";
+  display-drun: "Applications:";
+}
+
+@theme "/home/pom/.config/rofi/themes/nord.rasi"

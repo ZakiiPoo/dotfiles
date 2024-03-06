@@ -8,4 +8,4 @@ configuration {
   display-drun: "Applications:";
 }
 
-@theme "/home/pom/.config/rofi/themes/nord.rasi"
+@theme "/home/warapagi/.config/rofi/themes/nord.rasi"

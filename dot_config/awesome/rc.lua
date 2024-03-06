@@ -106,8 +106,8 @@ local cycle_prev   = true  -- cycle with only the previously focused client or a
 
 local terminal = "kitty"
 local file_manager = "nemo"
-local browser = "firefox"
-local work_browser = "brave"
+local browser = "brave"
+local work_browser = "firefox"
 local editor = "emacsclient -c -a 'emacs'"
 local editor_cmd = terminal .. " -e " .. editor
 
